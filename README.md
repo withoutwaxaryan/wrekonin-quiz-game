@@ -5,7 +5,7 @@ A noir quiz-hangman game in Turbo C++ !
 
 Find the full demo [here](https://youtu.be/K4vPp9tS9O4).
 
-**Developers** : Akash Savio Sen & Aryan Gupta (2016)
+**Developers** : [Akash Savio Sen](https://github.com/aksavio/) & Aryan Gupta (2016)
 
 **Theme** : A quiz game- hangman, where the main guy (Rick) has to reckon the right answer or he will get wrecked!
 
